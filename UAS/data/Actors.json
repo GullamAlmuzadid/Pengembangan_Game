@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"MC","characterIndex":0,"characterName":"Utama","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Utama","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
